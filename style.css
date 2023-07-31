@@ -169,7 +169,6 @@ body {
     .container {
         background-color: var(--White) ;
         box-shadow: 0 0 20px rgb(219, 219, 219);
-        border-radius: 10px;
-        transform: scale(.80);
+        border-radius: 10px
     }
    }
